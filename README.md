@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, my name is William 🇸🇪👋
+🔭 I’m currently working on CS50P Introduction Course in Python! <br>
 <!--
 **kws097/kws097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
